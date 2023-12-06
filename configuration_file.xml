@@ -1,0 +1,13 @@
+<?xml version="1.0"?> 
+<configuration>
+  <property>
+    <name> IterationLimit </name>
+    <value> 10 </value>
+    <description> Maximum number of iterations </description>
+  </property>
+  <property>
+    <name> Threshold </name>
+    <value> 0.0001f </value>
+    <description> Threshold for the stopping criterion </description>
+  </property>
+</configuration>
